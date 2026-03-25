@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Navneet Gupta 👋<br>💻 Web Developer with skills in HTML, CSS, JavaScript<br>☕ Java & 🐍 Python Programmer<br>📊 Interested in MySQL & Data Analytics<br>🚀 Built projects like house brokerage website <br>🎯 Currently learning and growing in full-stack development
+Hi, I’m Navneet Gupta 👋<br>💻 Web Developer with skills in HTML, CSS, JavaScript , react , node.js , express.js , mongodb.js<br>☕ Java & 🐍 Python Programmer<br>📊 Interested in full stack development <br>🚀 Built projects like house brokerage website <br>🎯 Currently learning and growing in full-stack development
 
 
 ## 🌐 Socials:
